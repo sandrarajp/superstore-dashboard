@@ -1,4 +1,4 @@
-# superstore-dashboard 
+
 # 📊 Superstore Sales Dashboard using Plotly Dash
 
 An interactive data visualization dashboard built with **Plotly Dash** to analyze sales, profit, and regional performance from the *Sample Superstore* dataset.
